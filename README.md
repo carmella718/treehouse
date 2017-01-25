@@ -1,2 +1,0 @@
-# treehouse
-Treehouse assignments
